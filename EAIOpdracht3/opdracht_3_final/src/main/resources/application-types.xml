@@ -84,4 +84,22 @@ type Infobord_JSON = {|
       </types:output-event>
     </types:processor-declaration>
   </types:enrichment>
+  <types:enrichment select="#ff460927-c1e6-441f-ae3b-db05f541a9e2">
+    <types:processor-declaration>
+      <types:input-event>
+        <types:message>
+          <types:payload type="XML_Bericht"/>
+        </types:message>
+      </types:input-event>
+    </types:processor-declaration>
+  </types:enrichment>
+  <types:enrichment select="#bec88eed-505e-408d-a9bc-a50d2261252e">
+    <types:processor-declaration>
+      <types:input-event>
+        <types:message>
+          <types:payload type="XML_Bericht"/>
+        </types:message>
+      </types:input-event>
+    </types:processor-declaration>
+  </types:enrichment>
 </types:mule>
