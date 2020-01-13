@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="con" path="org.mule.tooling.MULE_PROJECT_LIB"/>
 	<classpathentry kind="con" path="MULE_LIB/org.mule.connectors/mule-jms-connector/1.6.3"/>
-	<classpathentry kind="con" path="MULE_LIB/org.mule.connectors/mule-http-connector/1.5.11"/>
 	<classpathentry kind="con" path="MULE_LIB/org.mule.connectors/mule-sockets-connector/1.1.5"/>
+	<classpathentry kind="con" path="MULE_LIB/org.mule.connectors/mule-http-connector/1.5.11"/>
+	<classpathentry kind="con" path="org.mule.tooling.API_SPEC_LIB/org.slf4j/slf4j-api/1.7.25"/>
+	<classpathentry kind="con" path="org.mule.tooling.API_SPEC_LIB/org.fusesource.hawtbuf/hawtbuf/1.11"/>
+	<classpathentry kind="con" path="org.mule.tooling.API_SPEC_LIB/org.apache.geronimo.specs/geronimo-j2ee-management_1.1_spec/1.0.1"/>
+	<classpathentry kind="con" path="org.mule.tooling.API_SPEC_LIB/org.apache.geronimo.specs/geronimo-jms_1.1_spec/1.1.1"/>
+	<classpathentry kind="con" path="org.mule.tooling.MULE_PROJECT_LIB"/>
+	<classpathentry kind="con" path="org.mule.tooling.API_SPEC_LIB/org.apache.activemq/activemq-client/5.15.4"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry exported="true" kind="con" path="MULE_RUNTIME/org.mule.tooling.server.4.2.2.ee"/>
 	<classpathentry kind="src" path="src/main/mule"/>

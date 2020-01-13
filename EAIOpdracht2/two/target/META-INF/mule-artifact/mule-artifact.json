@@ -1,0 +1,36 @@
+{
+  "configs": [
+    "two.xml"
+  ],
+  "secureProperties": [],
+  "redeploymentEnabled": true,
+  "name": "com.mycompany:two:1.0.0-SNAPSHOT",
+  "minMuleVersion": "4.2.2",
+  "requiredProduct": "MULE_EE",
+  "classLoaderModelLoaderDescriptor": {
+    "id": "mule",
+    "attributes": {
+      "exportedPackages": [],
+      "exportedResources": [
+        "application-types.xml",
+        "examples/henk-1.json",
+        "examples/henk-1.xml",
+        "examples/henk-2.json",
+        "examples/henk-2.xml",
+        "examples/henk-3.json",
+        "examples/henk-3.xml",
+        "examples/henk-4.json",
+        "examples/henk-4.xml",
+        "examples/henk-5.json",
+        "examples/henk.json",
+        "examples/henk.xml",
+        "log4j2.xml",
+        "two.xml"
+      ]
+    }
+  },
+  "bundleDescriptorLoader": {
+    "id": "mule",
+    "attributes": {}
+  }
+}

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<types:mule xmlns:types="http://www.mulesoft.org/schema/mule/types">
+  <types:catalog>
+    <types:type name="test" format="json">
+      <types:shape format="weave" example="examples/henk-5.json"><![CDATA[%dw 2.0
+
+type test = {|
+  url: String, 
+  database: String, 
+  username: String, 
+  password: String, 
+  productNaam: String, 
+  partnerNaam: String
+|} {"example": "{\\\"url\\\":\\\"henk.nl\\\",\\\"database\\\":\\\"henkscollectie\\\",\\\"username\\\":\\\"henk\\\",\\\"password\\\":\\\"hahahenk\\\",\\\"productNaam\\\":\\\"Schroef\\\",\\\"partnerNaam\\\":\\\"Henk\\\"}"}
+
+]]></types:shape>
+    </types:type>
+  </types:catalog>
+  <types:enrichment select="#d9cf95dc-5dc7-4f17-968e-252fa829fd17">
+    <types:processor-declaration>
+      <types:output-event>
+        <types:message>
+          <types:payload type="test"/>
+        </types:message>
+      </types:output-event>
+    </types:processor-declaration>
+  </types:enrichment>
+  <types:enrichment select="#1217ef52-4831-4484-a61d-a49deb4a2520">
+    <types:processor-declaration>
+      <types:output-event>
+        <types:message>
+          <types:payload type="test"/>
+        </types:message>
+      </types:output-event>
+    </types:processor-declaration>
+  </types:enrichment>
+  <types:enrichment select="#8464fd19-9c3f-4e04-b9b6-4c7088a5a54e">
+    <types:processor-declaration>
+      <types:input-event>
+        <types:message>
+          <types:payload type="test"/>
+        </types:message>
+      </types:input-event>
+    </types:processor-declaration>
+  </types:enrichment>
+</types:mule>
