@@ -5,32 +5,22 @@
     <eindpunt>N</eindpunt>
     <bedrijf>FLIXBUS</bedrijf>
     <busID>3LIJN51</busID>
-    <tijd>2729</tijd>
+    <tijd>3638</tijd>
     <ETAs>
-      <ETA>
-        <halteNaam>X</halteNaam>
-        <richting>1</richting>
-        <aankomsttijd>2735</aankomsttijd>
-      </ETA>
-      <ETA>
-        <halteNaam>Y</halteNaam>
-        <richting>1</richting>
-        <aankomsttijd>2740</aankomsttijd>
-      </ETA>
       <ETA>
         <halteNaam>G</halteNaam>
         <richting>1</richting>
-        <aankomsttijd>2747</aankomsttijd>
+        <aankomsttijd>3641</aankomsttijd>
       </ETA>
       <ETA>
         <halteNaam>Z</halteNaam>
         <richting>1</richting>
-        <aankomsttijd>2759</aankomsttijd>
+        <aankomsttijd>3653</aankomsttijd>
       </ETA>
       <ETA>
         <halteNaam>N</halteNaam>
         <richting>1</richting>
-        <aankomsttijd>2776</aankomsttijd>
+        <aankomsttijd>3670</aankomsttijd>
       </ETA>
     </ETAs>
   </Bericht>
@@ -41,32 +31,99 @@
     <eindpunt>W</eindpunt>
     <bedrijf>FLIXBUS</bedrijf>
     <busID>3LIJN5-1</busID>
-    <tijd>2729</tijd>
+    <tijd>3638</tijd>
     <ETAs>
       <ETA>
         <halteNaam>Z</halteNaam>
         <richting>1</richting>
-        <aankomsttijd>2746</aankomsttijd>
+        <aankomsttijd>3640</aankomsttijd>
       </ETA>
       <ETA>
         <halteNaam>G</halteNaam>
         <richting>1</richting>
-        <aankomsttijd>2758</aankomsttijd>
+        <aankomsttijd>3652</aankomsttijd>
       </ETA>
       <ETA>
         <halteNaam>Y</halteNaam>
         <richting>1</richting>
-        <aankomsttijd>2765</aankomsttijd>
+        <aankomsttijd>3659</aankomsttijd>
       </ETA>
       <ETA>
         <halteNaam>X</halteNaam>
         <richting>1</richting>
-        <aankomsttijd>2770</aankomsttijd>
+        <aankomsttijd>3664</aankomsttijd>
       </ETA>
       <ETA>
         <halteNaam>W</halteNaam>
         <richting>1</richting>
-        <aankomsttijd>2776</aankomsttijd>
+        <aankomsttijd>3670</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN51</busID>
+    <tijd>3638</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>3641</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>3648</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>3660</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>3677</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN5-1</busID>
+    <tijd>3638</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>3647</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>3659</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>3666</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>3671</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>3677</aankomsttijd>
       </ETA>
     </ETAs>
   </Bericht>
@@ -77,32 +134,22 @@
     <eindpunt>N</eindpunt>
     <bedrijf>FLIXBUS</bedrijf>
     <busID>3LIJN51</busID>
-    <tijd>2730</tijd>
+    <tijd>3639</tijd>
     <ETAs>
-      <ETA>
-        <halteNaam>X</halteNaam>
-        <richting>1</richting>
-        <aankomsttijd>2735</aankomsttijd>
-      </ETA>
-      <ETA>
-        <halteNaam>Y</halteNaam>
-        <richting>1</richting>
-        <aankomsttijd>2740</aankomsttijd>
-      </ETA>
       <ETA>
         <halteNaam>G</halteNaam>
         <richting>1</richting>
-        <aankomsttijd>2747</aankomsttijd>
+        <aankomsttijd>3641</aankomsttijd>
       </ETA>
       <ETA>
         <halteNaam>Z</halteNaam>
         <richting>1</richting>
-        <aankomsttijd>2759</aankomsttijd>
+        <aankomsttijd>3653</aankomsttijd>
       </ETA>
       <ETA>
         <halteNaam>N</halteNaam>
         <richting>1</richting>
-        <aankomsttijd>2776</aankomsttijd>
+        <aankomsttijd>3670</aankomsttijd>
       </ETA>
     </ETAs>
   </Bericht>
@@ -113,32 +160,99 @@
     <eindpunt>W</eindpunt>
     <bedrijf>FLIXBUS</bedrijf>
     <busID>3LIJN5-1</busID>
-    <tijd>2730</tijd>
+    <tijd>3639</tijd>
     <ETAs>
       <ETA>
         <halteNaam>Z</halteNaam>
         <richting>1</richting>
-        <aankomsttijd>2746</aankomsttijd>
+        <aankomsttijd>3640</aankomsttijd>
       </ETA>
       <ETA>
         <halteNaam>G</halteNaam>
         <richting>1</richting>
-        <aankomsttijd>2758</aankomsttijd>
+        <aankomsttijd>3652</aankomsttijd>
       </ETA>
       <ETA>
         <halteNaam>Y</halteNaam>
         <richting>1</richting>
-        <aankomsttijd>2765</aankomsttijd>
+        <aankomsttijd>3659</aankomsttijd>
       </ETA>
       <ETA>
         <halteNaam>X</halteNaam>
         <richting>1</richting>
-        <aankomsttijd>2770</aankomsttijd>
+        <aankomsttijd>3664</aankomsttijd>
       </ETA>
       <ETA>
         <halteNaam>W</halteNaam>
         <richting>1</richting>
-        <aankomsttijd>2776</aankomsttijd>
+        <aankomsttijd>3670</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN51</busID>
+    <tijd>3639</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>3641</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>3648</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>3660</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>3677</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN5-1</busID>
+    <tijd>3639</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>3647</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>3659</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>3666</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>3671</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>3677</aankomsttijd>
       </ETA>
     </ETAs>
   </Bericht>
@@ -149,32 +263,22 @@
     <eindpunt>N</eindpunt>
     <bedrijf>FLIXBUS</bedrijf>
     <busID>3LIJN51</busID>
-    <tijd>2737</tijd>
+    <tijd>0</tijd>
     <ETAs>
-      <ETA>
-        <halteNaam>X</halteNaam>
-        <richting>1</richting>
-        <aankomsttijd>2741</aankomsttijd>
-      </ETA>
-      <ETA>
-        <halteNaam>Y</halteNaam>
-        <richting>1</richting>
-        <aankomsttijd>2746</aankomsttijd>
-      </ETA>
       <ETA>
         <halteNaam>G</halteNaam>
         <richting>1</richting>
-        <aankomsttijd>2753</aankomsttijd>
+        <aankomsttijd>1</aankomsttijd>
       </ETA>
       <ETA>
         <halteNaam>Z</halteNaam>
         <richting>1</richting>
-        <aankomsttijd>2765</aankomsttijd>
+        <aankomsttijd>13</aankomsttijd>
       </ETA>
       <ETA>
         <halteNaam>N</halteNaam>
         <richting>1</richting>
-        <aankomsttijd>2782</aankomsttijd>
+        <aankomsttijd>30</aankomsttijd>
       </ETA>
     </ETAs>
   </Bericht>
@@ -185,32 +289,99 @@
     <eindpunt>W</eindpunt>
     <bedrijf>FLIXBUS</bedrijf>
     <busID>3LIJN5-1</busID>
-    <tijd>2737</tijd>
+    <tijd>0</tijd>
     <ETAs>
       <ETA>
         <halteNaam>Z</halteNaam>
         <richting>1</richting>
-        <aankomsttijd>2752</aankomsttijd>
+        <aankomsttijd>0</aankomsttijd>
       </ETA>
       <ETA>
         <halteNaam>G</halteNaam>
         <richting>1</richting>
-        <aankomsttijd>2764</aankomsttijd>
+        <aankomsttijd>12</aankomsttijd>
       </ETA>
       <ETA>
         <halteNaam>Y</halteNaam>
         <richting>1</richting>
-        <aankomsttijd>2771</aankomsttijd>
+        <aankomsttijd>19</aankomsttijd>
       </ETA>
       <ETA>
         <halteNaam>X</halteNaam>
         <richting>1</richting>
-        <aankomsttijd>2776</aankomsttijd>
+        <aankomsttijd>24</aankomsttijd>
       </ETA>
       <ETA>
         <halteNaam>W</halteNaam>
         <richting>1</richting>
-        <aankomsttijd>2782</aankomsttijd>
+        <aankomsttijd>30</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN51</busID>
+    <tijd>0</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>1</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>8</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>20</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>37</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN5-1</busID>
+    <tijd>0</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>7</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>19</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>26</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>31</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>37</aankomsttijd>
       </ETA>
     </ETAs>
   </Bericht>
@@ -221,32 +392,22 @@
     <eindpunt>N</eindpunt>
     <bedrijf>FLIXBUS</bedrijf>
     <busID>3LIJN51</busID>
-    <tijd>2738</tijd>
+    <tijd>1</tijd>
     <ETAs>
-      <ETA>
-        <halteNaam>X</halteNaam>
-        <richting>1</richting>
-        <aankomsttijd>2741</aankomsttijd>
-      </ETA>
-      <ETA>
-        <halteNaam>Y</halteNaam>
-        <richting>1</richting>
-        <aankomsttijd>2746</aankomsttijd>
-      </ETA>
       <ETA>
         <halteNaam>G</halteNaam>
         <richting>1</richting>
-        <aankomsttijd>2753</aankomsttijd>
+        <aankomsttijd>0</aankomsttijd>
       </ETA>
       <ETA>
         <halteNaam>Z</halteNaam>
         <richting>1</richting>
-        <aankomsttijd>2765</aankomsttijd>
+        <aankomsttijd>13</aankomsttijd>
       </ETA>
       <ETA>
         <halteNaam>N</halteNaam>
         <richting>1</richting>
-        <aankomsttijd>2782</aankomsttijd>
+        <aankomsttijd>30</aankomsttijd>
       </ETA>
     </ETAs>
   </Bericht>
@@ -257,32 +418,2999 @@
     <eindpunt>W</eindpunt>
     <bedrijf>FLIXBUS</bedrijf>
     <busID>3LIJN5-1</busID>
-    <tijd>2738</tijd>
+    <tijd>1</tijd>
     <ETAs>
-      <ETA>
-        <halteNaam>Z</halteNaam>
-        <richting>1</richting>
-        <aankomsttijd>2752</aankomsttijd>
-      </ETA>
       <ETA>
         <halteNaam>G</halteNaam>
         <richting>1</richting>
-        <aankomsttijd>2764</aankomsttijd>
+        <aankomsttijd>12</aankomsttijd>
       </ETA>
       <ETA>
         <halteNaam>Y</halteNaam>
         <richting>1</richting>
-        <aankomsttijd>2771</aankomsttijd>
+        <aankomsttijd>19</aankomsttijd>
       </ETA>
       <ETA>
         <halteNaam>X</halteNaam>
         <richting>1</richting>
-        <aankomsttijd>2776</aankomsttijd>
+        <aankomsttijd>24</aankomsttijd>
       </ETA>
       <ETA>
         <halteNaam>W</halteNaam>
         <richting>1</richting>
-        <aankomsttijd>2782</aankomsttijd>
+        <aankomsttijd>30</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN51</busID>
+    <tijd>1</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>0</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>8</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>20</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>37</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN5-1</busID>
+    <tijd>1</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>7</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>19</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>26</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>31</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>37</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN51</busID>
+    <tijd>2</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>13</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>30</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN5-1</busID>
+    <tijd>2</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>12</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>19</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>24</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>30</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN51</busID>
+    <tijd>2</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>8</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>20</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>37</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN5-1</busID>
+    <tijd>2</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>7</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>19</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>26</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>31</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>37</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN51</busID>
+    <tijd>3</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>13</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>30</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN5-1</busID>
+    <tijd>3</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>12</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>19</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>24</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>30</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN51</busID>
+    <tijd>3</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>8</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>20</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>37</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN5-1</busID>
+    <tijd>3</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>7</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>19</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>26</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>31</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>37</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN51</busID>
+    <tijd>4</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>13</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>30</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN5-1</busID>
+    <tijd>4</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>12</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>19</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>24</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>30</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN51</busID>
+    <tijd>4</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>8</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>20</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>37</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN5-1</busID>
+    <tijd>4</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>7</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>19</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>26</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>31</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>37</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN51</busID>
+    <tijd>93</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>99</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>104</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>111</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>123</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>140</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN5-1</busID>
+    <tijd>93</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>110</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>122</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>129</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>134</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>140</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN51</busID>
+    <tijd>94</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>99</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>104</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>111</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>123</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>140</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN5-1</busID>
+    <tijd>94</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>110</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>122</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>129</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>134</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>140</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN51</busID>
+    <tijd>101</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>105</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>110</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>117</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>129</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>146</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN5-1</busID>
+    <tijd>101</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>116</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>128</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>135</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>140</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>146</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN51</busID>
+    <tijd>102</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>105</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>110</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>117</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>129</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>146</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN5-1</busID>
+    <tijd>102</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>116</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>128</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>135</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>140</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>146</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN51</busID>
+    <tijd>103</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>105</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>110</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>117</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>129</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>146</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN5-1</busID>
+    <tijd>103</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>116</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>128</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>135</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>140</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>146</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN51</busID>
+    <tijd>104</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>105</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>110</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>117</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>129</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>146</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN5-1</busID>
+    <tijd>104</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>116</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>128</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>135</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>140</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>146</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN51</busID>
+    <tijd>105</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>0</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>110</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>117</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>129</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>146</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN5-1</busID>
+    <tijd>105</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>116</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>128</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>135</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>140</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>146</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN51</busID>
+    <tijd>115</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>119</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>126</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>138</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>155</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN5-1</busID>
+    <tijd>115</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>125</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>137</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>144</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>149</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>155</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN51</busID>
+    <tijd>115</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>121</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>126</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>133</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>145</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>162</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN5-1</busID>
+    <tijd>115</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>132</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>144</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>151</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>156</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>162</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN51</busID>
+    <tijd>116</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>119</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>126</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>138</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>155</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN5-1</busID>
+    <tijd>116</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>125</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>137</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>144</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>149</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>155</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN51</busID>
+    <tijd>116</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>121</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>126</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>133</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>145</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>162</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN5-1</busID>
+    <tijd>116</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>132</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>144</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>151</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>156</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>162</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN51</busID>
+    <tijd>117</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>119</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>126</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>138</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>155</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN5-1</busID>
+    <tijd>117</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>125</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>137</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>144</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>149</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>155</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN51</busID>
+    <tijd>117</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>121</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>126</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>133</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>145</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>162</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN5-1</busID>
+    <tijd>117</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>132</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>144</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>151</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>156</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>162</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN51</busID>
+    <tijd>118</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>119</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>126</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>138</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>155</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN5-1</busID>
+    <tijd>118</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>125</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>137</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>144</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>149</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>155</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN51</busID>
+    <tijd>118</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>121</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>126</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>133</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>145</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>162</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN5-1</busID>
+    <tijd>118</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>132</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>144</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>151</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>156</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>162</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN51</busID>
+    <tijd>119</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>0</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>126</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>138</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>155</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN5-1</busID>
+    <tijd>119</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>125</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>137</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>144</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>149</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>155</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN51</busID>
+    <tijd>119</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>121</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>126</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>133</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>145</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>162</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN5-1</busID>
+    <tijd>119</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>132</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>144</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>151</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>156</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>162</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN51</busID>
+    <tijd>130</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>136</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>148</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>165</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN5-1</busID>
+    <tijd>130</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>135</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>147</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>154</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>159</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>165</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN51</busID>
+    <tijd>130</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>131</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>136</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>143</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>155</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>172</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN5-1</busID>
+    <tijd>130</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>142</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>154</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>161</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>166</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>172</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN51</busID>
+    <tijd>131</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>136</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>148</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>165</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN5-1</busID>
+    <tijd>131</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>135</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>147</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>154</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>159</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>165</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN51</busID>
+    <tijd>131</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>0</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>136</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>143</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>155</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>172</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN5-1</busID>
+    <tijd>131</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>142</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>154</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>161</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>166</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>172</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN51</busID>
+    <tijd>132</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>136</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>148</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>165</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN5-1</busID>
+    <tijd>132</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>135</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>147</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>154</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>159</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>165</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN51</busID>
+    <tijd>132</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>136</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>143</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>155</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>172</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN5-1</busID>
+    <tijd>132</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>142</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>154</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>161</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>166</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>172</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN51</busID>
+    <tijd>133</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>136</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>148</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>165</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN5-1</busID>
+    <tijd>133</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>135</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>147</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>154</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>159</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>165</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN51</busID>
+    <tijd>133</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>136</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>143</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>155</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>172</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN5-1</busID>
+    <tijd>133</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>142</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>154</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>161</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>166</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>172</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN51</busID>
+    <tijd>134</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>136</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>148</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>165</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN5-1</busID>
+    <tijd>134</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>135</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>147</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>154</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>159</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>165</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN51</busID>
+    <tijd>134</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>136</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>143</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>155</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>172</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN5-1</busID>
+    <tijd>134</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>142</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>154</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>161</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>166</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>172</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN51</busID>
+    <tijd>146</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>147</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>159</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>176</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN5-1</busID>
+    <tijd>146</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>0</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>158</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>165</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>170</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>176</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN51</busID>
+    <tijd>146</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>147</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>154</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>166</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>183</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN5-1</busID>
+    <tijd>146</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>153</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>165</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>172</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>177</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>183</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN51</busID>
+    <tijd>147</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>0</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>159</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>176</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN5-1</busID>
+    <tijd>147</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>158</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>165</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>170</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>176</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN51</busID>
+    <tijd>147</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>0</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>154</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>166</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>183</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN5-1</busID>
+    <tijd>147</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>153</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>165</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>172</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>177</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>183</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN51</busID>
+    <tijd>148</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>159</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>176</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN5-1</busID>
+    <tijd>148</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>158</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>165</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>170</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>176</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN51</busID>
+    <tijd>148</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>154</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>166</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>183</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN5-1</busID>
+    <tijd>148</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>153</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>165</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>172</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>177</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>183</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN51</busID>
+    <tijd>149</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>159</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>176</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN5-1</busID>
+    <tijd>149</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>158</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>165</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>170</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>176</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN51</busID>
+    <tijd>149</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>154</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>166</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>183</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN5-1</busID>
+    <tijd>149</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>153</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>165</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>172</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>177</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>183</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN51</busID>
+    <tijd>150</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>159</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>176</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN5-1</busID>
+    <tijd>150</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>158</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>165</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>170</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>176</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN51</busID>
+    <tijd>150</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>154</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>166</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>183</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN5-1</busID>
+    <tijd>150</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>153</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>165</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>172</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>177</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>183</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN51</busID>
+    <tijd>161</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>169</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>186</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>3LIJN5-1</busID>
+    <tijd>161</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>168</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>175</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>180</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>186</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>N</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN51</busID>
+    <tijd>161</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>164</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>176</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>N</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>193</aankomsttijd>
+      </ETA>
+    </ETAs>
+  </Bericht>
+</FLIXBUS_LOG><?xml version='1.0' encoding='UTF-8'?>
+<FLIXBUS_LOG>
+  <Bericht>
+    <lijnNaam>LIJN5</lijnNaam>
+    <eindpunt>W</eindpunt>
+    <bedrijf>FLIXBUS</bedrijf>
+    <busID>10LIJN5-1</busID>
+    <tijd>161</tijd>
+    <ETAs>
+      <ETA>
+        <halteNaam>Z</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>163</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>G</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>175</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>Y</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>182</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>X</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>187</aankomsttijd>
+      </ETA>
+      <ETA>
+        <halteNaam>W</halteNaam>
+        <richting>1</richting>
+        <aankomsttijd>193</aankomsttijd>
       </ETA>
     </ETAs>
   </Bericht>

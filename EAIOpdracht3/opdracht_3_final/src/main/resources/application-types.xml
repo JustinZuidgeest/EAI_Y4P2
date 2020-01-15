@@ -102,4 +102,13 @@ type Infobord_JSON = {|
       </types:input-event>
     </types:processor-declaration>
   </types:enrichment>
+  <types:enrichment select="#2afe2031-9e95-4c22-883d-9c9f8d255913">
+    <types:processor-declaration>
+      <types:input-event>
+        <types:message>
+          <types:payload type="XML_Bericht"/>
+        </types:message>
+      </types:input-event>
+    </types:processor-declaration>
+  </types:enrichment>
 </types:mule>
